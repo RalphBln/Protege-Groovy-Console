@@ -6,7 +6,7 @@ The plug-in allows to open a [Groovy Console](https://docs.groovy-lang.org/lates
 
 ## Installation
 
-1. Download the latest release
+1. Download [the latest release](https://github.com/RalphBln/Protege-Groovy-Console/releases/latest).
 2. Move the JAR file from your Downloads directory to the "plugins" subdirectory of your Protege distribution.
 
 ## Usage
