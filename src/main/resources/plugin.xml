@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse version="3.0"?>
+
+<plugin>
+	
+	<extension id="groovyconsole" point="org.protege.editor.core.application.EditorKitMenuAction">
+		<name value="Show Groovy console"/>
+		<path value="org.protege.editor.core.application.menu.window/SlotE-Z"/>
+		<toolTip value="Opens a Groovy console in an external window, allowing programmatic access to the ontologies opened in Protégé"/>
+		<class value="xyz.aspectowl.groovyconsole.GroovyConsoleMenuAction"/>
+		<editorKitId value="any"/>
+	</extension>
+
+</plugin>
