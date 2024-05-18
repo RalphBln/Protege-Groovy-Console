@@ -15,11 +15,11 @@ The plug-in adds a menu item under Protege's "Window" menu.
 
 Select "Window" -> "Show Groovy Console".
 
-![Menu item labeled "Show Grrovy console" in Progege's "Window" menu](img/menu.png)
+<img alt="Menu item labeled &quot;Show Grrovy console&quot; in Progege's &quot;Window&quot; menu" src="img/menu.png" width="25%" height="25%" />
 
 A Groovy console will open in a separate window.
 
-![Menu item labeled "Show Grrovy console" in Progege's "Window" menu](img/groovy-console.png)
+![The Groovy Console window](img/groovy-console.png)
 
 The console has some variables pre-defined:
 
